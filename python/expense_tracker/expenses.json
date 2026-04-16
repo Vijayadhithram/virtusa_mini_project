@@ -82,5 +82,11 @@
     "category": "Entertainment",
     "amount": 199.0,
     "description": "Netflix subscription"
+  },
+  {
+    "date": "2020-03-23",
+    "category": "Health",
+    "amount": 100000.0,
+    "description": "c21"
   }
 ]
