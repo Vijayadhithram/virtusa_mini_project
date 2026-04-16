@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2025-04-01",
+    "category": "Food",
+    "amount": 320.0,
+    "description": "Lunch at canteen"
+  },
+  {
+    "date": "2025-04-02",
+    "category": "Travel",
+    "amount": 150.0,
+    "description": "Auto to office"
+  },
+  {
+    "date": "2025-04-03",
+    "category": "Bills",
+    "amount": 999.0,
+    "description": "Electricity bill"
+  },
+  {
+    "date": "2025-04-05",
+    "category": "Shopping",
+    "amount": 1450.0,
+    "description": "New headphones"
+  },
+  {
+    "date": "2025-04-07",
+    "category": "Food",
+    "amount": 480.0,
+    "description": "Weekend groceries"
+  },
+  {
+    "date": "2025-04-09",
+    "category": "Entertainment",
+    "amount": 350.0,
+    "description": "Movie tickets"
+  },
+  {
+    "date": "2025-04-10",
+    "category": "Health",
+    "amount": 600.0,
+    "description": "Pharmacy"
+  },
+  {
+    "date": "2025-04-12",
+    "category": "Food",
+    "amount": 210.0,
+    "description": "Dinner with friends"
+  },
+  {
+    "date": "2025-04-14",
+    "category": "Education",
+    "amount": 799.0,
+    "description": "Udemy course"
+  },
+  {
+    "date": "2025-03-05",
+    "category": "Bills",
+    "amount": 1200.0,
+    "description": "Rent advance"
+  },
+  {
+    "date": "2025-03-10",
+    "category": "Food",
+    "amount": 540.0,
+    "description": "Monthly rations"
+  },
+  {
+    "date": "2025-03-18",
+    "category": "Travel",
+    "amount": 890.0,
+    "description": "Train ticket"
+  },
+  {
+    "date": "2025-03-22",
+    "category": "Shopping",
+    "amount": 2200.0,
+    "description": "Clothes"
+  },
+  {
+    "date": "2025-03-28",
+    "category": "Entertainment",
+    "amount": 199.0,
+    "description": "Netflix subscription"
+  }
+]
